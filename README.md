@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khushiiaggrawal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=khushiiaggrawal&icon=5&color=0)](https://visitcount.itsvg.in)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushikandoi1217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kandoi-70b887234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](
 https://youtube.com/@CultZeroOfficial?si=_iwFZ4HTHsyo0J6z
 ) 
+---
+[![](https://visitcount.itsvg.in/api?id=khushiiaggrawal&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
