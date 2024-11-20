@@ -28,6 +28,6 @@ https://youtube.com/@CultZeroOfficial?si=_iwFZ4HTHsyo0J6z
 [![](https://visitcount.itsvg.in/api?id=khushiiaggrawal&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
-![](https://inertial-server.vercel.app/v1/svg/ghub/673de398b72af8967aba57b5)
+[![](https://inertial-server.vercel.app/v1/svg/ghub/66fc9fe8188b51f265e0d5af)](http://localhost:5173/profile/66fc9fe8188b51f265e0d5af)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
